@@ -19,4 +19,4 @@ Every second this program will output the percent difference from 60 Hz, measure
 
 ![image](https://user-images.githubusercontent.com/6502474/174726759-041743dc-8ca8-48f1-9d19-d7685479f18f.png)
 
-You can simultaneously watch the output of the program while viewing http://fnetpublic.utk.edu/frequencymap.html which shows the realtime status of the power grid frequency.
+You can simultaneously watch the output of the program while viewing http://fnetpublic.utk.edu/frequencymap.html which shows the realtime status of the power grid frequency. They were in agreement for me (my teensy output produces the output quicker than that webpage can, so the webpage naturally lagged).

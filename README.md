@@ -1,2 +1,4 @@
 # teensy-track-power-line-frequency
 a simple test program to measure the frequency of the AC power
+
+[Example circuit for input pins 22 & 23](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAWwosgoFMBaMMAKACURttCRieueAFjxRRg2tmhVaM6AnYgUeEZhSKUgxRjW0IhWjtEx5AJ07dFCfhbAYeu+HBYB5cz1tCw7u0YUDFym6cCIa04iAMktJGcixm-h5BfKJgjpAsAGYBKtpBqpxq0rAoLOJUgthqzGp4XorhEgD6eI2QjeLELQitsPBkhFYo3UyNrGUReLpgahoGDeDNre2QnY0ocj2O02gYkNjTw2Bro43YLEA): 

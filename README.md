@@ -13,6 +13,7 @@ and my breadboard uses a -3.3V power rail in white whivh is generated uskng a 76
 
 ![16557917376291756917279469647811](https://user-images.githubusercontent.com/6502474/174728317-a37479c3-8505-4e1e-8053-e6855d5dec34.jpg)
 
+BTW, I'm using Teensy 4.1's interal 100k ohm pull-up resistor, so I only need to use one other 100k ohm resistor for each 2n7000.
 
 Every second this program will output the percent difference from 60 Hz, measured on pin 22 and measured on pin 23.  This can be averaged and put into a chart in a spreadsheet editor:
 
